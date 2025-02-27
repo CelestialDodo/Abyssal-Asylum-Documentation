@@ -2,4 +2,4 @@
 
 This page acts as a home page between all of the pages
 
-[Commands](CommandsMain.md)
+This is a [Commands](CommandsMain.md) test
