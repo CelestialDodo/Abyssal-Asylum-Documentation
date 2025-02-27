@@ -15,9 +15,9 @@ eff
 
 Arguments:
 ```
-Player (Player Running Command)
-*Effect Name Or Custom Json
-Duration (60)
+Player
+*Effect Name (Or Custom Json)
+Duration (In Seconds)
 ```
 
 Required Permission Level: 3
