@@ -5,13 +5,14 @@
 
 <summary>Alphabetically Sorted A-Z</summary>
 
-[/documentation](Commands/docs.md)
-[/effect](Commands/effect.md)
+[documentation](Commands/docs.md)
 
-[/give](Commands/give.md)
+[effect](Commands/effect.md)
 
-[/popup](Commands/popup.md)
+[give](Commands/give.md)
 
-[/testing](Commands/example.md)
+[popup](Commands/popup.md)
+
+[example](Commands/example.md)
 
 </details>
