@@ -2,5 +2,11 @@
 # Command - Documentation
 
 <details>
-  <summary>### Alias's</summary>
+  <summary>Alias's</summary>
+
+  ```
+document
+documentation
+docs
+  ```
 </details>
