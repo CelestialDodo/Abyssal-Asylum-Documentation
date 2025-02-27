@@ -1,6 +1,9 @@
 ### [Back](README.md)
-# All of the commands in the game, sorted alphabetically a-z
+# All of the commands in the game
 
+<details>
+
+<summary>Alphabetically Sorted A-Z</summary>
 [/documentation](Commands/docs.md)
 
 [/effect](Commands/effect.md)
@@ -10,3 +13,5 @@
 [/popup](Commands/popup.md)
 
 [/testing](Commands/example.md)
+
+</details>
