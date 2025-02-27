@@ -16,7 +16,7 @@ g
 Arguments:
 ```
 Player (Player Running The Command)
-*I.File Path -I can be either "loot" or "item" representing either a loot table or an item
+*I.File Path (I can be either "loot" or "item" representing either a loot table or an item)
 ```
 
 Required Permission Level: 2
