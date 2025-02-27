@@ -4,8 +4,8 @@
 <details>
 
 <summary>Alphabetically Sorted A-Z</summary>
-[/documentation](Commands/docs.md)
 
+[/documentation](Commands/docs.md)
 [/effect](Commands/effect.md)
 
 [/give](Commands/give.md)
