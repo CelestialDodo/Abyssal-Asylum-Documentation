@@ -10,3 +10,16 @@ documentation
 docs
   ```
 </details>
+
+
+#### Command Usage
+
+Arguments:
+```
+```
+
+Required Permission Level: 0
+
+### Command Description
+
+The document command is used to open the documentation for the game 'Abyssal Asylum'
