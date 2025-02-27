@@ -15,6 +15,9 @@ eff
 
 Arguments:
 ```
+Player (Player Running Command)
+*Effect Name Or Custom Json
+Duration (60)
 ```
 
 Required Permission Level: 3
